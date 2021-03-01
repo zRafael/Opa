@@ -3,3 +3,5 @@ create database amora ;
 use amora;
 
 create table amora1;
+
+melancia e amora
